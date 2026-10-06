@@ -1,13 +1,13 @@
 .secao.metas{
-    dispaly: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     width: 600px;
 }
 
-.metas{
-    dispalay: flex;
+.meta{
+    display: flex;
     justify-content: center;
     align-items: center;
 }
