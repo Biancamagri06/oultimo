@@ -8,9 +8,13 @@
 
 body{
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
-.secao.metas{
+.secao-metas{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,6 +34,7 @@ body{
     border: 2px solid var(--cor-detalhe);
     border-radius: 8px;
     margin-bottom: 15px;
+    width: 80%;
 }
 
 img{
